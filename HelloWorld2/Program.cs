@@ -12,6 +12,12 @@ namespace HelloWorld2
         {
             Console.WriteLine("Fredrik was here!?!?!");
             Console.WriteLine("Egidio tesing");
+            for (int i=0; i < 10; i++)
+            { 
+                Console.Write("ABC ");
+            }
+
+}
         }
     }
 }
