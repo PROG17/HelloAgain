@@ -11,6 +11,7 @@ namespace HelloWorld2
         static void Main(string[] args)
         {
             Console.WriteLine("Fredrik was here!?!?!");
+            Console.WriteLine("Egidio tesing");
         }
     }
 }
