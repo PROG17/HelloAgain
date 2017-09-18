@@ -18,6 +18,8 @@ namespace HelloWorld2
                 Console.WriteLine();
                 // including a comment
                 Console.WriteLine("What if I do branch of this part??");
+
+                Console.WriteLine("Let´s try to merge with master now");
             }
 
 
